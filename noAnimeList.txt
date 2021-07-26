@@ -1,5 +1,5 @@
 # ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
+# Anime Blocklist
 # ----------------------------------------------------------
 # Source: https://github.com/samahmujthaba/noAnimeList
 # Copyright (c) 2021 Samaah Mujuthaba
