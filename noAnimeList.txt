@@ -1,0 +1,65 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
+# ----------------------------------------------------------
+# Source: https://github.com/samahmujthaba/noAnimeList
+# Copyright (c) 2021 Samaah Mujuthaba
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 1000toon.blogspot.com
+0.0.0.0 am4th.com
+0.0.0.0 anime-i.com
+0.0.0.0 anime-lunla.com
+0.0.0.0 anime-me-th-tv.blogspot.com
+0.0.0.0 anime-mvp.com
+0.0.0.0 anime-ox.com
+0.0.0.0 anime-sugoi.com
+0.0.0.0 anime-thclub.com
+0.0.0.0 anime-zeed.com
+0.0.0.0 animemovie-club.in
+0.0.0.0 animethailovelove.blogspot.com
+0.0.0.0 animelovestory.com
+0.0.0.0 bigc-anime.com
+0.0.0.0 cartoonth12.com
+0.0.0.0 dekanime.com
+0.0.0.0 doanimehd.com
+0.0.0.0 dooanimez.com
+0.0.0.0 dukartoon.com
+0.0.0.0 dukartoon.blogspot.com
+0.0.0.0 gg-anime.com
+0.0.0.0 hime-anime.com
+0.0.0.0 hunter-anime.com
+0.0.0.0 in-anime.com
+0.0.0.0 kimochii-jp.net
+0.0.0.0 king-anime.com
+0.0.0.0 kledr.com
+0.0.0.0 koi-anime.com
+0.0.0.0 kono-anime.com
+0.0.0.0 kuma-anime.com
+0.0.0.0 m9anime.com
+0.0.0.0 maxmeadcartoons.net
+0.0.0.0 micxca.com
+0.0.0.0 miko-anime.com
+0.0.0.0 miru-anime.com
+0.0.0.0 miru-anime.net
+0.0.0.0 miruanime.net
+0.0.0.0 misa-anime.com
+0.0.0.0 neko-miku.com
+0.0.0.0 newb-anime.com
+0.0.0.0 nice-anime.com
+0.0.0.0 now-anime.com
+0.0.0.0 onitoon.com
+0.0.0.0 orztoon.co
+0.0.0.0 otakudrive.com
+0.0.0.0 rock-anime.com
+0.0.0.0 show-anime.com
+0.0.0.0 snipertopanime.net
+0.0.0.0 strip-cartoon.blogspot.com
+0.0.0.0 toonzaa.com
+0.0.0.0 wztoon.com
+0.0.0.0 zone-anime.net
+0.0.0.0 kissanime.ru
+0.0.0.0 animepahe.com
+0.0.0.0 twist.moe
+0.0.0.0 crunchyroll.com
+0.0.0.0 wcostream.com
