@@ -1,0 +1,18 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
+# ----------------------------------------------------------
+# Source: https://github.com/samahmujthaba/justFilterLists
+# Copyright (c) 2021 Samaah Mujuthaba
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 pinterest.com
+0.0.0.0 ct.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 pinterest.es
+0.0.0.0 151.101.128.84
+0.0.0.0 151.101.192.84
+0.0.0.0 151.101.0.84
+0.0.0.0 151.101.64.84
