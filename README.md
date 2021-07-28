@@ -1,2 +1,2 @@
-# noAnimeList
-list of anime content hosted domains for blocking and filtering
+# justFilterLists
+block list for dns blocking mostly with pihole
