@@ -1,0 +1,12 @@
+# ----------------------------------------------------------
+# PI-HOLE app download BLOCKLIST
+# ----------------------------------------------------------
+# Source: https://github.com/samahmujthaba/justFilterLists
+# Copyright (c) 2021 Samaah Mujuthaba
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 apkpure.com
+0.0.0.0 m.apkpure.com
+0.0.0.0 uptodown.com
+0.0.0.0 en.uptodown.com
