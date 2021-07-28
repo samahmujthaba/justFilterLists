@@ -1,0 +1,14 @@
+# ----------------------------------------------------------
+# PI-HOLE social blacklist: Tumblr
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann and other sources
+# Copyright (c) 2021 Samaah Mujuthaba and all other sources mentioned
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 66.media.tumblr.com
+0.0.0.0 media.tumblr.com
+0.0.0.0 action.tumblr.com
+0.0.0.0 68.media.tumblr.com
